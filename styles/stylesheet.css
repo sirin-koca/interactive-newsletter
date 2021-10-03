@@ -62,11 +62,11 @@ animation-direction: alternate;
 
 @keyframes animatedGradient {
 from {
-background-size: 140%;
+background-size: 250%;
 }
 
 to {
-background-size: 30%;
+background-size: 45%;
 }
 }
 
