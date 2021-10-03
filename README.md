@@ -17,11 +17,11 @@ This Oblig gives you two options. The first is intended more for those of you wh
 ## Report: 
 
 ## G33 - meet the crew! 
-* --
-* --
-* --
-* --
-* --
+* Sirin Koca | s182211
+* Gilhan Jentrix M. Dandin | s360903
+* Ahmet Okur | s364568
+* Bhiravina Mahesaratnam | s334895
+* Johan Tryti | s362059
 
 ## USeful links:
 
