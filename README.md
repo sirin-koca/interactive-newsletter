@@ -12,8 +12,6 @@ This Oblig gives you two options. The first is intended more for those of you wh
 
 ## Key elements:
 
-## Delivery checks:
-
 ## Report: 
 
 ## G33 - meet the crew! 
@@ -23,8 +21,23 @@ This Oblig gives you two options. The first is intended more for those of you wh
 * Bhiravina Mahesaratnam | s334895
 * Johan Tryti | s362059
 
-## USeful links:
+
+### Useful links:
+* The beginner’s guide to SEO (Moz): https://moz.com/beginners-guide-to-seo 
+* Web accessibility tutorials (W3C): https://www.w3.org/WAI/tutorials/page-structure/
+* How to Meet WCAG: https://www.w3.org/WAI/WCAG21/quickref/
+* Inproving readability for texts: https://hemingwayapp.com/
+
+## Deliverables/check list - from the assignment text
 
 ## Sources:
 
-### Data1200 - Oslomet - 2021, Oslo
+***
+
+
+### thank you! 
+
+
+
+© 2021 Team G33 - Data1200 - OsloMet
+
