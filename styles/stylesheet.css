@@ -11,7 +11,7 @@ font-family: "Roboto", sans-serif;
 section {
 width: 700px;
 height: 100%;
-background-color: linen;
+background-color: rgb(236, 223, 209);
 padding: 15px;
 margin: 10px;
 font-size: 14px;
@@ -51,7 +51,7 @@ animation-direction: alternate;
 }
 
 h2 {
-background: radial-gradient(circle, #41bd47 40%, #ee0000 100%);
+background: radial-gradient(circle, #31a837 40%, #ee0000 100%);
 background-clip: text;
 -webkit-background-clip: text;
 color: transparent;
