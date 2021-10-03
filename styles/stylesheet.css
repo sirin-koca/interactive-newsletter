@@ -34,46 +34,46 @@ color:magenta;
 text-decoration: none;
 }
 
-h1 {
-  background: radial-gradient(circle, #ffee05 60%, #f5008f 100%);
-  background-clip: text;
-  -webkit-background-clip: text;
-  color: transparent;
-  animation: animatedGradient 1s infinite ease;
-  animation-direction: alternate;
-}
-
-h2 {
-    background: radial-gradient(circle, #35339e 50%, #ff002b 100%);
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
-    animation: animatedGradient 1s infinite ease;
-    animation-direction: alternate;
-  }
-
-@keyframes animatedGradient {
-    from {
-      background-size: 140%;
-    }
-  
-    to {
-      background-size: 30%;
-    }
-  }
-  
-
 footer {
 display: flex;
 bottom: 0px;
 margin: 10px;
 }
 
-/* txt effect start */
-  
-/* txt effect end*/
+/* TXT effect start */
+
+h1 {
+background: radial-gradient(circle, #ffee05 60%, #f5008f 100%);
+background-clip: text;
+-webkit-background-clip: text;
+color: transparent;
+animation: animatedGradient 1s infinite ease;
+animation-direction: alternate;
+}
+
+h2 {
+background: radial-gradient(circle, #35339e 50%, #ff002b 100%);
+background-clip: text;
+-webkit-background-clip: text;
+color: transparent;
+animation: animatedGradient 1s infinite ease;
+animation-direction: alternate;
+}
+
+@keyframes animatedGradient {
+from {
+background-size: 140%;
+}
+
+to {
+background-size: 30%;
+}
+}
+
+/* TXT effect end*/
 
 
+/* responsive css start*/
 @media (min-width: 300px) and (max-width: 600px) {
 
     section {
@@ -101,5 +101,7 @@ margin: 10px;
     }
 
 }
+
+/* responsive css end*/
 
   
