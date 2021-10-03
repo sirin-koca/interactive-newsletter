@@ -23,8 +23,8 @@ This Oblig gives you two options. The first is intended more for those of you wh
 * --
 * --
 
-### USeful links:
+## USeful links:
 
-### Sources:
+## Sources:
 
-### 2021, Oslo
+### Data1200 - Oslomet - 2021, Oslo
