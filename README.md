@@ -7,12 +7,6 @@ This Oblig gives you two options. The first is intended more for those of you wh
 * Points 0 
 * Submitting a website url or a file upload.
 
-## Overview: 
-
-## Key elements:
-
-## Report: 
-
 ## G33 - meet the crew! 
 * Sirin Koca | s182211
 * Gilhan Jentrix M. Dandin | s360903
@@ -20,6 +14,15 @@ This Oblig gives you two options. The first is intended more for those of you wh
 * Bhiravina Mahesaratnam | s334895
 * Johan Tryti | s362059
 
+## Overview: 
+
+some txt ...
+
+## Key elements:
+
+some txt ...
+
+## Report: 
 
 ### Useful links:
 * The beginner’s guide to SEO (Moz): https://moz.com/beginners-guide-to-seo 
@@ -27,9 +30,13 @@ This Oblig gives you two options. The first is intended more for those of you wh
 * How to Meet WCAG: https://www.w3.org/WAI/WCAG21/quickref/
 * Inproving readability for texts: https://hemingwayapp.com/
 
-## Deliverables/check list - from the assignment text
+## Deliverables/check list - from the assignment text:
+
+some txt ...
 
 ## Sources:
+
+some txt ...
 
 ***
 
