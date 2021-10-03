@@ -11,10 +11,10 @@ font-family: "Roboto", sans-serif;
 section {
 width: 700px;
 height: 100%;
-background-color: rgb(236, 223, 209);
-padding: 15px;
+background-color: rgb(223, 212, 200);
+padding: 10px;
 margin: 10px;
-font-size: 14px;
+font-size: 15px;
 text-decoration: none; 
 line-height: 150%;
 }
@@ -29,8 +29,9 @@ font-size: 1em;
 }
 
 a:hover {
-color:tomato;
-text-decoration: none;
+color: darkgreen;
+font-weight: bold;
+text-decoration: none; 
 }
 
 footer {
@@ -42,16 +43,16 @@ margin: 10px;
 /* TXT effect start */
 
 h1 {
-background: radial-gradient(circle, hsl(182, 97%, 43%) 60%, #f5008f 100%);
+background: radial-gradient(circle, tomato 50%, blue 100%);
 background-clip: text;
 -webkit-background-clip: text;
 color: transparent;
-animation: animatedGradient 1s infinite ease;
+animation: animatedGradient 2s infinite ease;
 animation-direction: alternate;
 }
 
 h2 {
-background: radial-gradient(circle, #31a837 40%, #ee0000 100%);
+background: radial-gradient(circle, #ff00dd 50%, #ff0000 100%);
 background-clip: text;
 -webkit-background-clip: text;
 color: transparent;
