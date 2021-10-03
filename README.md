@@ -20,8 +20,7 @@ This Oblig gives you two options. The first is intended more for those of you wh
 * Files on Canvas for Option b: interactive newsletter: https://oslomet.instructure.com/courses/22306/files/2349651?wrap=1
 * Repo link on GitHub: interactive newsletter: https://github.com/sirin-koca/interactive-newsletter
 * Public URL-adress: interactive newsletter: https://sirin-koca.github.io/interactive-newsletter/pages/index.html
-
-*Readme.md: interactive newsletter : https://sirin-koca.github.io/interactive-newsletter
+* Readme.md: interactive newsletter : https://sirin-koca.github.io/interactive-newsletter
 
 ## Key elements:
 
