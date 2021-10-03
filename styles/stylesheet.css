@@ -1,10 +1,14 @@
 
 
-body {width: 100vw; height: 100vh;}
-div {width: 100%; height: 100%;}
+body {
+    width: 100%; 
+    height: 100%;
+}
 
 section{
+display: flex;
 width: 700px;
+height: 100%;
 background-color: darkseagreen;
 padding: 15px;
 margin: 10px;
@@ -14,8 +18,23 @@ text-decoration: none;
 line-height: 150%;   
 }
 
+div {
+width: 100%;
+height: 100%;
+}
+
+a {
+font-size: 1em;
+}
+
+
 a:hover{
-color: magenta;
+color: lime;
+text-decoration: none;
+}
+
+h1{
+    color: tomato;
 }
 
 footer{
@@ -40,14 +59,17 @@ height: 100%;
 h1 {
 font-size: 1em;
 }
+h2 {
+font-size: 1em;
+}
 h3 {
-font-size: 0.9em;
+font-size: 1em;
 }
 p {
-font-size: 0.9em;
+font-size: 1em;
 }
 a {
-font-size: 0.9em;
+font-size: 1em;
 }
 
 }
