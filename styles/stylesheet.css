@@ -1,7 +1,7 @@
 
-html, 
+
 body {width: 100vw; height: 100vh;}
-div {width: 100%; height: 100%}
+div {width: 100%; height: 100%;}
 
 section{
     width: 700px;
@@ -22,7 +22,6 @@ footer{
     display: flexbox;
     bottom: 0px;
     margin: 10px;
-
 }
 
   @media (min-width: 318px) and (max-width: 360px) {
