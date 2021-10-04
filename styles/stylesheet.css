@@ -15,10 +15,10 @@ background-color: rgb(223, 212, 200);
 border-radius: 5px;
 padding: 10px;
 margin: 10px;
-font-size: 15px;
+font-size: 14px;
 text-decoration: none; 
-line-height: 150%;
-box-shadow: 1px 2px 2px rgb(148, 147, 147);
+line-height: 140%;
+box-shadow: 1px 2px 3px rgb(148, 147, 147);
 }
 
 div {
