@@ -6,17 +6,20 @@ height: 100%;
 overflow: hidden;
 margin-top: auto;
 font-family: "Roboto", sans-serif;
+background-color: linen;
 }
 
 section {
 width: 700px;
 height: 100%;
 background-color: rgb(223, 212, 200);
+border-radius: 5px;
 padding: 10px;
 margin: 10px;
 font-size: 15px;
 text-decoration: none; 
 line-height: 150%;
+box-shadow: 1px 2px 2px rgb(148, 147, 147);
 }
 
 div {
@@ -29,7 +32,7 @@ font-size: 1em;
 }
 
 a:hover {
-color: darkgreen;
+color: mediumseagreen;
 font-weight: bold;
 text-decoration: none; 
 }
@@ -56,6 +59,8 @@ background: radial-gradient(circle, #ff00dd 50%, #ff0000 100%);
 background-clip: text;
 -webkit-background-clip: text;
 color: transparent;
+font-size: 30px;
+padding: 7px;
 
 }
 
