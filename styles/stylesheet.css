@@ -47,7 +47,7 @@ margin: 10px;
 /* TXT effect start */
 
 h1 {
-background: radial-gradient(circle, yellow 20%, darkblue 100%);
+background: radial-gradient(circle, yellow 30%, darkblue 100%);
 background-clip: text;
 -webkit-background-clip: text;
 color: transparent;
@@ -67,11 +67,11 @@ line-height: 35px;
 
 @keyframes animatedGradient {
 from {
-background-size: 200%;
+background-size: 220%;
 }
 
 to {
-background-size: 60%;
+background-size: 50%;
 }
 }
 
