@@ -28,13 +28,14 @@ height: 100%;
 
 a {
 font-size: 1em;
+color: rgb(0, 80, 252);
 text-decoration: none;
 }
 
 a:hover {
-color: mediumseagreen;
-font-weight: bold;
+color: rgb(0, 194, 0);
 text-decoration: none; 
+font-weight: bold;
 }
 
 footer {
