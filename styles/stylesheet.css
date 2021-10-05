@@ -6,20 +6,20 @@ height: 100%;
 max-width: 700px;
 margin-top: auto;
 font-family: "Roboto", sans-serif;
-background-color: rgb(228, 233, 221);
+background-color: rgb(240, 234, 234);
 }
 
 section {
 width: 700px;
 height: 100%;
-background-color: rgb(238, 233, 224);
+background-color: rgb(224, 220, 211);
 border-radius: 5px;
 padding: 10px;
 margin: 10px;
 font-size: 14px;
 text-decoration: none; 
 line-height: 140%;
-box-shadow: 1px 3px 8px rgb(117, 128, 89);
+box-shadow: 1px 3px 8px rgb(119, 123, 108);
 }
 
 div {
@@ -49,7 +49,7 @@ margin: 10px;
 /* TXT effect start */
 
 h1 {
-background: radial-gradient(circle, #f6ffd4 10%, #3e00e9 100%);
+background: radial-gradient(circle, #f6ffd4 10%, #52009e 100%);
 background-clip: text;
 -webkit-background-clip: text;
 color: transparent;
