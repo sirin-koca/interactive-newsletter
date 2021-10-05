@@ -49,7 +49,7 @@ margin: 10px;
 /* TXT effect start */
 
 h1 {
-background: radial-gradient(circle, #3bb82f 30%, #fc0404 100%);
+background: radial-gradient(circle, #92cf20 30%, #e70202 100%);
 background-clip: text;
 -webkit-background-clip: text;
 color: transparent;
