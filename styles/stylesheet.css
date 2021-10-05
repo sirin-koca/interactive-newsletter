@@ -6,13 +6,13 @@ height: 100%;
 max-width: 700px;
 margin-top: auto;
 font-family: "Roboto", sans-serif;
-background-color:#FFFAF0;
+background-color: lightgray;
 }
 
 section {
 width: 700px;
 height: 100%;
-background-color: rgb(223, 212, 200);
+background-color: rgb(230, 224, 217);
 border-radius: 5px;
 padding: 10px;
 margin: 10px;
@@ -37,6 +37,7 @@ a:hover {
 color: tomato;
 text-decoration: none; 
 font-weight: bold;
+font-size: large;
 }
 
 footer {
@@ -48,7 +49,7 @@ margin: 10px;
 /* TXT effect start */
 
 h1 {
-background: radial-gradient(circle, #DEFFEF 30%, #884AF8 100%);
+background: radial-gradient(circle, #eeffde 30%, #0c7a02 100%);
 background-clip: text;
 -webkit-background-clip: text;
 color: transparent;
