@@ -1,4 +1,6 @@
-# WARNING | index.html in this repo, is the actual Oblig2 html file - so, do NOT touch anything! 
+# WARNING | index.html in this repo, is the actual Oblig2 html file - so, we r NOT allowed to touch anything in index.html! 
+
+***
 
 
 # Obli2 assignment: An interactive-newsletter by G33 
