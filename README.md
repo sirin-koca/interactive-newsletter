@@ -1,4 +1,4 @@
-# WARNING | index.html in this repo, is the actual Oblig2 html file - so, we r NOT allowed to touch anything in index.html! 
+# WARNING | index.html in this repo, is the actual Oblig2 html file - do NOT touch anything in index.html! 
 
 ***
 
