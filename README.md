@@ -3,6 +3,11 @@
 
 ***
 
+## Public URL-adress for the index.html: https://sirin-koca.github.io/interactive-newsletter/project/index.html 
+
+## According to the zip.file of Oblig2, the index.html is located under the project folder, and here is the local directory: oblig2-option2-src/project/index.html
+
+***
 
 # Obli2 assignment: An interactive-newsletter by G33 
 ### Description: 
