@@ -1,5 +1,5 @@
 # WARNING:
-## index.html in this repo, is the actual Oblig2 html file - do NOT touch anything in index.html! 
+## index.html in this repo, is the actual Oblig2 html file - do NOT change anything in index.html! 
 
 ***
 
