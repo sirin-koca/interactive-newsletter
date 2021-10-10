@@ -31,7 +31,7 @@ This Oblig gives you two options. The first is intended more for those of you wh
 * Link to Oblig2 on Canvas - assignment description: https://oslomet.instructure.com/courses/22306/assignments/50251
 * Files on Canvas for Option b: interactive newsletter: https://oslomet.instructure.com/courses/22306/files/2349651?wrap=1
 * Repo link on GitHub: interactive newsletter: https://github.com/sirin-koca/interactive-newsletter
-* Public URL-adress: interactive newsletter: https://sirin-koca.github.io/interactive-newsletter/pages/index.html
+* Public URL-adress: interactive newsletter: https://sirin-koca.github.io/interactive-newsletter/project/index.html 
 * Readme.md: interactive newsletter : https://sirin-koca.github.io/interactive-newsletter
 
 ## Key elements:
