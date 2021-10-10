@@ -5,7 +5,8 @@
 
 ## Public URL-adress for the index.html: https://sirin-koca.github.io/interactive-newsletter/project/index.html 
 
-## According to the zip.file of Oblig2, the index.html is located under the project folder, and here is the local directory: oblig2-option2-src/project/index.html
+## According to the zip.file of Oblig2, the index.html is located under the project folder, so that is why it has to be under the project folder. 
+The local directory in harddisk: oblig2-option2-src/project/index.html
 
 ***
 
