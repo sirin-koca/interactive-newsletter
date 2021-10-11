@@ -1,13 +1,5 @@
 /* TEST */
 
-h1 {
-  background-color: green;
-}
-
-div {
-  background-color: lightblue;
-}
-
-p {
+body {
   background-color: yellow;
 }
