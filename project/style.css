@@ -1,5 +1,9 @@
 /* TEST */
 
-body {
+body{
   background-color: yellow;
+}
+
+#intro-container{
+background-color: red;
 }
