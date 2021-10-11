@@ -31,3 +31,46 @@
   }
 
   /* General configurations - End */
+
+
+ /* First article (still need final fixes to intro container */
+
+
+#intro-container {
+
+background-color: #c5192d;
+padding: 2em;
+/* padding set to 2 rem */
+
+}
+
+/* Removing bullet points */
+
+ul {
+  list-style-type: none;
+}
+
+/* General emoji settings */
+
+li::before{
+  width: 1em;
+  margin-top: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+/* Adding the different emojis */
+
+li:nth-child(1)::before {
+  content: "\1F64C";
+}
+
+li:nth-child(2)::before {
+  content: "\1F3EB";
+}
+
+li:nth-child(3)::before {
+  content: "\1F4DA";
+}
+
+/* INTRO CONTAINER END */
