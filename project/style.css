@@ -1,9 +1,33 @@
-/* TEST */
 
-body{
-  background-color: yellow;
-}
+/* Screens < 600px */
+/* General configurations - Start */
+/* @media only screen and (max-width:600px) */ 
 
-#intro-container{
-background-color: red;
-}
+  html {
+    font-size: 14px; 
+  }
+
+  body {
+    margin: 0;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    font-family: 'Lato', sans-serif;
+    font-size: 1.2rem; 
+  } 
+
+  h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem; 
+  }
+
+  h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.2rem; 
+  }
+
+  p {
+    overflow: hidden;
+    max-width: 70ch;
+    line-height: 1.5;
+  }
+
+  /* General configurations - End */
