@@ -74,3 +74,23 @@ li:nth-child(3)::before {
 }
 
 /* INTRO CONTAINER END */
+
+/*HEADER CONTAINER*/
+
+header{
+  height: 55vh;
+  background-image: url("../project/assets/img/studentsbg.png");
+  background-attachment: fixed;
+  background-position: center top;
+  background-size: contain;
+  background-repeat: no-repeat; 
+}
+header>div{
+  background-color: #c5192d;
+  position: relative;
+  top: 4rem;
+}
+main{
+  background-color: whitesmoke;
+  box-shadow: 0 0 1px 0 darkgray;
+}
