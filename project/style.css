@@ -86,10 +86,25 @@ header{
   background-repeat: no-repeat; 
 }
 header>div{
+  width: 95vw;
+  margin: 0 auto;
   background-color: #c5192d;
   position: relative;
   top: 4rem;
 }
+header>div>h1{
+  color: white;
+  padding-top: 2rem;
+  text-align: center;
+}
+header>div>p{
+  color: whitesmoke;
+  position: relative;
+  margin: 0 auto 2rem auto;
+  text-align: center;
+  padding-bottom: 4rem;
+}
+/*HEADER CONTAINER*/
 main{
   background-color: whitesmoke;
   box-shadow: 0 0 1px 0 darkgray;
