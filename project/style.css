@@ -103,6 +103,8 @@ header>div>p{
   margin: 0 auto 2rem auto;
   text-align: center;
   padding-bottom: 4rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
 }
 /*HEADER CONTAINER*/
 main{
