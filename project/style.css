@@ -180,7 +180,7 @@ main{
   }
   /* End General configurations */
 
-  /* Articles - Not finished */
+  /* Articles*/
   #intro-container div {
     width: 45%;
     display: inline-block;
@@ -244,7 +244,7 @@ main{
     margin-bottom:2rem;
   }
 
-  /* End Articles - Not finished*/
+  /* End Articles*/
 
   /* Intro container - Done*/
   #intro-container {
