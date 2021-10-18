@@ -33,14 +33,16 @@
   /* General configurations - End */
 
 
- /* First article (still need final fixes to intro container */
+ /* First article - Johan */
 
 
 #intro-container {
 
 background-color: #c5192d;
 padding: 2em;
-/* padding set to 2 rem */
+margin-top: 2em;
+margin-bottom: 2em;
+/* margin set to 2 rem */
 
 }
 
@@ -75,6 +77,20 @@ li:nth-child(3)::before {
 
 /* INTRO CONTAINER END */
 
+/* Settings from article into mockups - Johan */
+
+/* End */
+
+article:nth-child(4) {
+  margin-bottom: 2em;
+}
+
+article:nth-child(2) {
+ margin-bottom: 0.5px;
+}
+
+
+
 /*HEADER CONTAINER*/
 
 header{
@@ -84,6 +100,7 @@ header{
   background-position: center top;
   background-size: contain;
   background-repeat: no-repeat; 
+
 }
 header>div{
   width: 95vw;
@@ -109,17 +126,6 @@ main{
   background-color: whitesmoke;
   box-shadow: 0 0 1px 0 darkgray;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 /* CSS for tablet - Gilhan - 600px – 960 px */
 @media screen and (min-width:600px) and (max-width:960px) {
