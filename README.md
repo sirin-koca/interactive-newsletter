@@ -53,13 +53,11 @@ some txt ...
 * Include readme file (.txt or .md) in the root folder of your project with any relevant comment the examiner should know when grading the task. 
 * Link to the live version of your page (GitHub pages). 
 * Valid CSS code – Feel free to use the CSS validator
-* (Only if you picked option a) 
-* Report page: the report with your preparations and reflections (max 700 words).
 
-***).
+***
 
 
-### thank you! 
+### Thank you! 
 
 
 
