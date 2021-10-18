@@ -155,7 +155,7 @@ main{
   article:nth-child(2) div {
     width: 45%;
     display: inline-block;
-    margin: 2.5%; /* Will remove margin depending on mobile version padding */
+    margin: 2.5%; /* Will remove margin depending on mobile version padding/image resize */
     vertical-align: top;
   }
 
@@ -167,20 +167,20 @@ main{
   article:nth-child(3) div {
     width: 45%;
     display: inline-block;
-    margin: 2.5%;
-    margin-left: 5%; /* Will remove margin depending on mobile version padding */
-    vertical-align: top;
+    margin: 2.5% 2.5% 2.5% 0%;
+    vertical-align: top; /* Will remove margin depending on mobile version padding/image resize */
   }
 
   article:nth-child(3) img {
     width: 45%;
     display: inline-block;
+    margin-right: 5%;
   }
 
   article:nth-child(4) div {
     width: 45%;
     display: inline-block;
-    margin:2.5%; /* Will remove margin depending on mobile version padding */
+    margin:2.5%; /* Will remove margin depending on mobile version padding/image resize */
     vertical-align: top;
   }
 
