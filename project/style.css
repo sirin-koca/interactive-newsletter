@@ -1,11 +1,12 @@
 
 /* Screens < 600px */
-/* @media screen and (max-width:600px) */ 
-/* General configurations - Start */
+/* General configurations - Sirin - Start */
 
+@media screen and (max-width:600px) {
+  
   html {
     font-size: 14px; 
-  }
+  } 
 
   body {
     margin: 0;
@@ -30,102 +31,88 @@
     line-height: 1.5;
   }
 
-  /* General configurations - End */
-
-
- /* First article - Johan */
-
-
-#intro-container {
-
-background-color: #c5192d;
-padding: 2em;
-margin-top: 2em;
-margin-bottom: 2em;
-/* margin set to 2 rem */
-
-}
-
-/* Removing bullet points */
-
-ul {
-  list-style-type: none;
-}
-
-/* General emoji settings */
-
-li::before{
-  width: 1em;
-  margin-top: 1em;
-  margin-left: 1em;
-  margin-right: 1em;
-}
-
-/* Adding the different emojis */
-
-li:nth-child(1)::before {
-  content: "\1F64C";
-}
-
-li:nth-child(2)::before {
-  content: "\1F3EB";
-}
-
-li:nth-child(3)::before {
-  content: "\1F4DA";
-}
-
-/* INTRO CONTAINER END */
-
-/* Settings from article into mockups - Johan */
-
-/* End */
-
-article:nth-child(4) {
-  margin-bottom: 2em;
-}
-
-article:nth-child(2) {
- margin-bottom: 0.5px;
-}
-
-
-
-/*HEADER CONTAINER*/
-
-header{
-  height: 55vh;
-  background-image: url("../project/assets/img/studentsbg.png");
-  background-attachment: fixed;
-  background-position: center top;
-  background-size: contain;
-  background-repeat: no-repeat; 
-
-}
-header>div{
-  width: 95vw;
-  margin: 0 auto;
+  /* First article - Johan */
+  #intro-container {
   background-color: #c5192d;
-  position: relative;
-  top: 4rem;
-}
-header>div>h1{
-  color: white;
-  padding-top: 2rem;
-  text-align: center;
-}
-header>div>p{
-  color: whitesmoke;
-  position: relative;
-  margin: 0 auto 2rem auto;
-  text-align: center;
-  padding-bottom: 4rem;
-}
-/*HEADER CONTAINER*/
-main{
-  background-color: whitesmoke;
-  box-shadow: 0 0 1px 0 darkgray;
-}
+  padding: 2em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+   }
+
+  ul {
+    list-style-type: none;
+  }
+
+  /* General emoji settings */
+  li::before{
+    width: 1em;
+    margin-top: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+
+  /* Adding the different emojis */
+  li:nth-child(1)::before {
+    content: "\1F64C";
+  }
+
+  li:nth-child(2)::before {
+    content: "\1F3EB";
+  }
+
+  li:nth-child(3)::before {
+    content: "\1F4DA";
+  }
+
+  /* INTRO CONTAINER END */
+  /* Settings from article into mockups - Johan End */
+
+  article:nth-child(4) {
+    margin-bottom: 2em;
+  }
+
+  article:nth-child(2) {
+  margin-bottom: 0.5px;
+  }
+
+  /*HEADER CONTAINER*/
+  header{
+    height: 55vh;
+    background-image: url("../project/assets/img/studentsbg.png");
+    background-attachment: fixed;
+    background-position: center top;
+    background-size: contain;
+    background-repeat: no-repeat; 
+
+  }
+  header>div{
+    width: 95vw;
+    margin: 0 auto;
+    background-color: #c5192d;
+    position: relative;
+    top: 4rem;
+  }
+  header>div>h1{
+    color: white;
+    padding-top: 2rem;
+    text-align: center;
+  }
+  header>div>p{
+    color: whitesmoke;
+    position: relative;
+    margin: 0 auto 2rem auto;
+    text-align: center;
+    padding-bottom: 4rem;
+  }
+  /*HEADER CONTAINER*/
+  main{
+    background-color: whitesmoke;
+    box-shadow: 0 0 1px 0 darkgray;
+  }
+} /* @media screen and (max-width:600px) - END */
+/* General config - Screens < 600px - Sirin - END */
+
+
 
 /* CSS for tablet - Gilhan - 600px – 960 px */
 @media screen and (min-width:600px) and (max-width:960px) {
