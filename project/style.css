@@ -40,7 +40,9 @@
 
 background-color: #c5192d;
 padding: 2em;
-/* padding set to 2 rem */
+margin-top: 2em;
+margin-bottom: 2em;
+/* margin set to 2 rem */
 
 }
 
@@ -84,6 +86,7 @@ header{
   background-position: center top;
   background-size: contain;
   background-repeat: no-repeat; 
+
 }
 header>div{
   width: 95vw;
