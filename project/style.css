@@ -87,7 +87,7 @@ header{
 }
 header>div{
   width: 95vw;
-  margin: 4rem auto 0 auto;
+  margin: 0 auto;
   background-color: #c5192d;
   position: relative;
   top: 4rem;
@@ -103,17 +103,11 @@ header>div>p{
   margin: 0 auto 2rem auto;
   text-align: center;
   padding-bottom: 4rem;
-  padding-right: 1rem;
-  padding-left: 1rem;
 }
 /*HEADER CONTAINER*/
 main{
   background-color: whitesmoke;
   box-shadow: 0 0 1px 0 darkgray;
-  width: 95vw;
-  text-align: center;
-  margin: 6rem auto 0 auto;
-  position: relative;
 }
 
 
@@ -155,12 +149,14 @@ main{
   #intro-container div {
     width: 45%;
     display: inline-block;
+    vertical-align: top;
   }
 
   article:nth-child(2) div {
     width: 45%;
     display: inline-block;
-    margin-right:5%; /* Will remove margin depending on mobile version padding */
+    margin: 2.5%; /* Will remove margin depending on mobile version padding */
+    vertical-align: top;
   }
 
   article:nth-child(2) img {
@@ -171,7 +167,9 @@ main{
   article:nth-child(3) div {
     width: 45%;
     display: inline-block;
-    margin-left:5%; /* Will remove margin depending on mobile version padding */
+    margin: 2.5%;
+    margin-left: 5%; /* Will remove margin depending on mobile version padding */
+    vertical-align: top;
   }
 
   article:nth-child(3) img {
@@ -182,7 +180,8 @@ main{
   article:nth-child(4) div {
     width: 45%;
     display: inline-block;
-    margin-right:5%; /* Will remove margin depending on mobile version padding */
+    margin:2.5%; /* Will remove margin depending on mobile version padding */
+    vertical-align: top;
   }
 
   article:nth-child(4) img {
