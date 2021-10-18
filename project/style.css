@@ -120,7 +120,7 @@
 
 
 /* CSS for tablet - Gilhan - 600px – 960 px */
-@media screen and (min-width:600px) and (max-width:960px) {
+@media screen and (min-width:600px){
   /* General configurations  - Done*/
   body {
     font-size: 16px;
@@ -255,3 +255,17 @@
   /* End Intro container */
 }
 /* End css for tablet - Gilhan - 600px – 960 px */
+
+@media screen and (min-width:960px){
+    body{
+      font-size: 24px;
+    }
+
+    header{
+      height: 65vh;
+    }
+
+    header > div, main, footer{
+      width: 70vw;
+    }
+}
