@@ -141,6 +141,7 @@ main{
 
   main {
     width: 85vw;
+    margin:auto;
   }
 
   footer {
@@ -158,43 +159,44 @@ main{
   article:nth-child(2) div {
     width: 45%;
     display: inline-block;
-    margin: 2.5%; /* Will remove margin depending on mobile version padding */
+    margin: 2.5% 0% 2.5% 2.5%; /* Will remove margin depending on mobile version padding/image resize */
     vertical-align: top;
   }
 
   article:nth-child(2) img {
     width: 45%;
     display: inline-block;
+    margin-left: 5%;
   }
 
   article:nth-child(3) div {
     width: 45%;
     display: inline-block;
-    margin: 2.5%;
-    margin-left: 5%; /* Will remove margin depending on mobile version padding */
-    vertical-align: top;
+    margin: 2.5% 0% 2.5% 2.5%;
+    vertical-align: top; /* Will remove margin depending on mobile version padding/image resize */
   }
 
   article:nth-child(3) img {
     width: 45%;
     display: inline-block;
+    margin-right: 5%;
   }
 
   article:nth-child(4) div {
     width: 45%;
     display: inline-block;
-    margin:2.5%; /* Will remove margin depending on mobile version padding */
+    margin: 2.5% 0% 2.5% 2.5%; /* Will remove margin depending on mobile version padding/image resize */
     vertical-align: top;
   }
 
   article:nth-child(4) img {
     width: 45%;
     display: inline-block;
+    margin-left: 5%;
   }
 
   /* Unfinished tasks
   • Observe that the image is aligned to the top of the container 
-  • Figure 3 columns with gap 
   */
 
   /* End Articles - Not finished*/
