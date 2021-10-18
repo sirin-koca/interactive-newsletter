@@ -35,12 +35,6 @@ This Oblig gives you two options. The first is intended more for those of you wh
 * Public URL-adress: interactive newsletter: https://sirin-koca.github.io/interactive-newsletter/project/index.html 
 * Readme.md: interactive newsletter : https://sirin-koca.github.io/interactive-newsletter
 
-## Key elements:
-
-some txt ...
-
-## Report: 
-
 ### Useful links:
 * The beginner’s guide to SEO (Moz): https://moz.com/beginners-guide-to-seo 
 * Web accessibility tutorials (W3C): https://www.w3.org/WAI/tutorials/page-structure/
