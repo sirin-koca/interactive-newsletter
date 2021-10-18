@@ -139,6 +139,10 @@ main{
     font-size: 2.2rem; 
   }
 
+  p {
+    font-size:1.2rem;
+  }
+
   header {
     height:65vh;
     background-size: cover;
@@ -146,7 +150,7 @@ main{
 
   header>div {
     width: 85vw;
-    top:24rem;
+    top:33rem;
   }
 
   main {
