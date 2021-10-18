@@ -6,7 +6,6 @@
 ## Public URL-adress for the index.html: https://sirin-koca.github.io/interactive-newsletter/project/index.html 
 
 ## According to the zip.file, the index.html is located under the project folder, so that is why it has to be under the project folder. 
-The local directory on harddisk: oblig2-option2-src/project/index.html
 
 ## This is where you will find the index.html inside the repo: https://github.com/sirin-koca/interactive-newsletter/tree/main/project 
 
@@ -47,16 +46,17 @@ some txt ...
 * Web accessibility tutorials (W3C): https://www.w3.org/WAI/tutorials/page-structure/
 * How to Meet WCAG: https://www.w3.org/WAI/WCAG21/quickref/
 * Inproving readability for texts: https://hemingwayapp.com/
+* https://css-tricks.com/
 
 ## Deliverables/check list - from the assignment text:
 
-some txt ...
+* Include readme file (.txt or .md) in the root folder of your project with any relevant comment the examiner should know when grading the task. 
+* Link to the live version of your page (GitHub pages). 
+* Valid CSS code – Feel free to use the CSS validator
+* (Only if you picked option a) 
+* Report page: the report with your preparations and reflections (max 700 words).
 
-## Sources:
-
-some txt ...
-
-***
+***).
 
 
 ### thank you! 
