@@ -143,6 +143,21 @@ main{
 
   footer {
     width: 85vw;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #c5192d;
+    padding-block-end: 1%;
+  }
+
+  footer p {
+    padding: 5%;
+    padding-bottom: 0%;
+    color: whitesmoke;
+    text-align: center;
+  }
+
+  footer p a {
+    color:inherit;
   }
   /* End General configurations */
 
