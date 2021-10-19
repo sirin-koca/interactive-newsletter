@@ -156,9 +156,9 @@
 /* General config - Screens < 600px - Sirin - END */
 
 
-/* CSS for tablet - Gilhan - 600px – 960 px */
+/* CSS for tablet - 600px – 960 px */
 @media screen and (min-width:600px){
-  /* General configurations  - Done*/
+  /* General configurations */
   body {
     font-size: 16px;
   }
@@ -179,6 +179,7 @@
 
   header>div {
     width: 85vw;
+    top:25rem;
   }
 
   main {
@@ -278,7 +279,7 @@
 
   /* End Articles*/
 
-  /* Intro container - Done*/
+  /* Intro container */
   #intro-container {
     background: linear-gradient(90deg, #c5192d 50%, #f5f5f5 50%);
     box-shadow: 0 0 1px 0 darkgray;
@@ -295,7 +296,7 @@
   }
   /* End Intro container */
 }
-/* End css for tablet - Gilhan - 600px – 960 px */
+/* End css for tablet - 600px – 960 px */
 
 @media screen and (min-width:960px){
     body{
