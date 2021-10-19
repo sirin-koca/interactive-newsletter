@@ -323,6 +323,12 @@
   }
   /* End Intro container */
 }
+
+@media screen and (min-width:600px) and (max-width:960px) {
+  header>div {
+    top:24rem;
+  }
+}
 /* End css for tablet - 600px – 960 px */
 
 @media screen and (min-width:960px){
