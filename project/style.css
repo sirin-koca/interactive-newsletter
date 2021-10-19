@@ -17,6 +17,29 @@
     font-size: 1.2rem; 
   } 
 
+
+  
+  footer {
+    background-color: #c5192d;
+    padding-block-end: 1%;
+    margin-left:2.5%;
+    margin-right: 2.5%;
+  }
+
+  footer p {
+    padding: 5%;
+    padding-bottom: 0%;
+    color: whitesmoke;
+    text-align: center;
+    
+  }
+
+  footer p a {
+    color:inherit;
+  }
+
+
+  
   img {
     max-width: 100%;
     height: auto;
@@ -45,10 +68,6 @@
     margin-right: 2.5%;
   }
 
-  footer {
-    margin-left:2.5%;
-    margin-right: 2.5%;
-  }
 
   #intro-container {
   background-color: #c5192d;
@@ -146,9 +165,17 @@
     text-align: center;
     padding-bottom: 4rem;
   }
-  /*HEADER CONTAINER*/
-  main{
+  
+  article {
     background-color: whitesmoke;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  
+  /*HEADER CONTAINER*/
+  
+  
+  main{
     box-shadow: 0 0 1px 0 darkgray;
   }
   
