@@ -17,6 +17,8 @@
     font-size: 1.2rem; 
   } 
 
+
+  
   img {
     max-width: 100%;
     height: auto;
@@ -146,9 +148,17 @@
     text-align: center;
     padding-bottom: 4rem;
   }
-  /*HEADER CONTAINER*/
-  main{
+  
+  article {
     background-color: whitesmoke;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  
+  /*HEADER CONTAINER*/
+  
+  
+  main{
     box-shadow: 0 0 1px 0 darkgray;
   }
   
