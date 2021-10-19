@@ -12,8 +12,7 @@
     font-size: 1.2rem; 
   } 
 
- 
-  footer {
+   footer {
     background-color: #c5192d;
     padding-block-end: 1%;
     margin-left:2.5%;
@@ -30,7 +29,6 @@
   footer p a {
     color:inherit;
   }
-
 
   img {
     max-width: 100%;
