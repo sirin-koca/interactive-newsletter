@@ -19,6 +19,27 @@
 
 
   
+  footer {
+    background-color: #c5192d;
+    padding-block-end: 1%;
+    margin-left:2.5%;
+    margin-right: 2.5%;
+  }
+
+  footer p {
+    padding: 5%;
+    padding-bottom: 0%;
+    color: whitesmoke;
+    text-align: center;
+    
+  }
+
+  footer p a {
+    color:inherit;
+  }
+
+
+  
   img {
     max-width: 100%;
     height: auto;
@@ -47,10 +68,6 @@
     margin-right: 2.5%;
   }
 
-  footer {
-    margin-left:2.5%;
-    margin-right: 2.5%;
-  }
 
   #intro-container {
   background-color: #c5192d;
