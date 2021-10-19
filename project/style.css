@@ -2,8 +2,6 @@
 /* Screens < 600px */
 /* General configurations - Sirin - Start */
 
-
-
 @media screen and (min-width: 320px) {
   
   body {
@@ -14,8 +12,7 @@
     font-size: 1.2rem; 
   } 
 
-
-  
+ 
   footer {
     background-color: #c5192d;
     padding-block-end: 1%;
