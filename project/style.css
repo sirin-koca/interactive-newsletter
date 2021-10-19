@@ -2,6 +2,8 @@
 /* Screens < 600px */
 /* General configurations - Sirin - Start */
 
+
+
 @media screen and (min-width: 320px) {
   
   html {
@@ -37,16 +39,49 @@
   }
 
   /* First article - Johan */
+
+  article {
+    margin-left:2.5%;
+    margin-right: 2.5%;
+  }
+
+  footer {
+    margin-left:2.5%;
+    margin-right: 2.5%;
+  }
+
   #intro-container {
   background-color: #c5192d;
   padding: 2em;
   margin-top: 2em;
   margin-bottom: 2em;
-   }
+  }
 
   ul {
-    list-style-type: none;
+  list-style-type: none;
+  padding-left:0%
   }
+
+  @media screen and (max-width:600px){
+  
+  article:nth-child(3) {
+      transform: rotate(180deg);
+  }
+
+  article:nth-child(3) img{
+    transform: rotate(-180deg);
+  }
+
+  article:nth-child(3) div{
+    transform: rotate(-180deg);
+  }
+  }
+
+  article {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+
 
   /* General emoji settings */
   li::before{
@@ -89,6 +124,8 @@
     background-size: cover;
     background-repeat: no-repeat; 
   }
+
+
 
   header>div{
     width: 95vw;
@@ -268,4 +305,5 @@
     header > div, main, footer{
       width: 70vw;
     }
-}
+
+  }
